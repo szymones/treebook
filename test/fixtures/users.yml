@@ -3,5 +3,11 @@ janek :
   first_name: "Janek"
   last_name: "Kowalski"
   email: "mail@mail.pl"
-  
+
+adam : 
+  profile_name: "adamek"
+  first_name: "Adam"
+  last_name: "Nowak"
+  email: "mail2@mail.pl"
+
 

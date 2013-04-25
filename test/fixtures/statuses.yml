@@ -8,3 +8,7 @@ two:
  
   content: MyText
   user: janek
+
+three:
+  content: Jakis tam teskt
+  user: adam
